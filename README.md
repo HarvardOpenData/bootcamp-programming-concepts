@@ -1,2 +1,2 @@
 # bootcamp-programming-concepts
- Programming Concepts in Python
+The Harvard Open Data Project Introduction to Python bootcamp.
